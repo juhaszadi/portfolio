@@ -18,6 +18,14 @@ Projekt [01]()
 </p>
 </details>
 
+<details><summary>13. évfolyam</summary>
+<p>
+
+#### 13. évfolyamon készített projektek!
+Projekt [01]()
+</p>
+</details>
+
 | Alkatrész |Típus|db|
 |-----------|-----|--|
 |Ellenállás | 18k | 1|
