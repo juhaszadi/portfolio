@@ -1,6 +1,6 @@
 # Juhász Ádám Portfóliója
 
-### 2020ban kezdtem tanulmányaimat a Miskolci SZC Kandó Kálmán Technikumban.
+### 2020ban kezdtem tanulmányaimat a Miskolci SZC Kandó Kálmán Informatikai Technikumban.
 
 ## 11. évfolyam:
 
