@@ -14,7 +14,7 @@ Projekt [01]()
 <p>
 
 #### 12. évfolyamon készített projektek!
-Projekt [01]()
+Projekt [02]()
 </p>
 </details>
 
@@ -22,7 +22,7 @@ Projekt [01]()
 <p>
 
 #### 13. évfolyamon készített projektek!
-Projekt [01]()
+Projekt [03]()
 </p>
 </details>
 
