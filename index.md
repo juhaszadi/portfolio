@@ -6,7 +6,7 @@
 <p>
 
 #### 11. évfolyamon készített projektek!
-Projekt [01]()
+Projekt [01](Valami)
 </p>
 </details>
 
