@@ -6,11 +6,15 @@
 <p>
 
 #### 11. évfolyamon készített projektek!
+Projekt [01]()
+</p>
+</details>
 
-```ruby
-   puts "Hello World"
-```
+<details><summary>12. évfolyam</summary>
+<p>
 
+#### 12. évfolyamon készített projektek!
+Projekt [01]()
 </p>
 </details>
 
