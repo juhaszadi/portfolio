@@ -2,9 +2,10 @@
 
 [Vissza](https://juhaszadi.github.io/portfolio/)
 
-### Alkatrészek
+### Forgó izé
 
-## (kép)
+![kép](/11/01.jpg)
+![kép](/11/02.jpg)
 
 | Alkatrész |Típus|db|
 |-----------|-----|--|
