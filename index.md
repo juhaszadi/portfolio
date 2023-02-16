@@ -14,8 +14,3 @@ Projekt [02](/12/projekt02.md)
 
 Projekt [03](/13/projekt03.md)
 
-
-| Alkatrész |Típus|db|
-|-----------|-----|--|
-|Ellenállás | 18k | 1|
-|Tranzisztor|BC639| 1|

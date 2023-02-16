@@ -10,5 +10,9 @@
 
 | Alkatrész |Típus|db|
 |-----------|-----|--|
-|Ellenállás | 18k | 1|
-|Tranzisztor|BC639| 1|
+|Ellenállás | --- | 4|
+|Dióda      |-----| 1|
+|Potméter   |-----| 1|
+|Trimmer PM.|-----| 1|
+|Tranzisztor|-----| 3|
+|IC         |-----| 1|
