@@ -2,10 +2,11 @@
 
 [Vissza](https://juhaszadi.github.io/portfolio/)
 
-### Forgó izé
+### Potméter
 
 ![kép](01.jpg)
 ![kép](02.jpg)
+
 
 | Alkatrész |Típus|db|
 |-----------|-----|--|
