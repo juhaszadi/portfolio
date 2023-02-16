@@ -6,7 +6,6 @@
 
 ## (kép)
 
-### Értékei
 | Alkatrész |Típus|db|
 |-----------|-----|--|
 |Ellenállás | 18k | 1|
