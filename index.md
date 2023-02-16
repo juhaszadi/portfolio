@@ -2,29 +2,17 @@
 
 ## 2019ben kezdtem tanulmányaimat a Miskolci SZC Kandó Kálmán Technikumban.
 
-<details><summary>11. évfolyam</summary>
-<p>
+### 11. évfolyam:
 
 #### 11. évfolyamon készített projektek!
 Projekt [01](Valami)
-</p>
-</details>
 
-<details><summary>12. évfolyam</summary>
-<p>
+### 12. évfolyam:
+
 
 #### 12. évfolyamon készített projektek!
 Projekt [02]()
-</p>
-</details>
 
-<details><summary>13. évfolyam</summary>
-<p>
-
-#### 13. évfolyamon készített projektek!
-Projekt [03]()
-</p>
-</details>
 
 | Alkatrész |Típus|db|
 |-----------|-----|--|
