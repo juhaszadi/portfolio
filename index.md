@@ -6,6 +6,8 @@
 
 Projekt [01](/11/projekt01.md)
 
+Projekt [02](/11/projekt01-02.md)
+
 ## 12. évfolyam:
 
 Projekt [02](/12/projekt02.md)
