@@ -4,12 +4,16 @@
 
 ### Hídkapcsolás
 #### Kiegyenlítettlen hídkapcsolás kimeneti feszültségének meghatározása
-##### Szimulációs méréssel (TINA)
+
+##### Kapcsolásirajz (TINA)
 
 ![kép](./JuhaszAdam_PR-1.PNG)
+
+##### Szimulációs mérés eredménye (TINA)
+
 ![kép](./JuhaszAdam_PR_meresi%20eredmeny.PNG)
 
-#### Valós mérés(Laborban)
+#### Valós mérés (Laborban)
 
 ### Alkatrészjegyzék
 
@@ -21,3 +25,12 @@
 |           |     |  |
 |           |     |  |
 |           |     |  |
+
+## Az áramkör összeállítása
+
+## A mérés előkészítése, mérés
+
+## Számítások
+
+## Önreflexió
+|-----------|-----|--|
