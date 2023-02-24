@@ -24,6 +24,7 @@
 |Volt mérő  |     | 1|
 
 ### Értékeik:
+
 | Alkatrész |Típus|db|
 |-----------|-----|--|
 |Ellenállás |   R1|1k|
