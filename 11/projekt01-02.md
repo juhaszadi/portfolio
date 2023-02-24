@@ -25,13 +25,13 @@
 
 ### Értékeik:
 
-| Alkatrész |Típus|db|
-|-----------|-----|--|
-|Ellenállás |   R1|1k|
-|           |   R2|2k|
-|           |   R3|3k|
-|           |   R4|4k|
-|           |   R5|5k|
+| Alkatrész |Típus|Érték|
+|-----------|-----|-----|
+|Ellenállás |   R1|   1k|
+|           |   R2|   2k|
+|           |   R3|   3k|
+|           |   R4|   4k|
+|           |   R5|   5k|
 
 ## Az áramkör összeállítása
 
