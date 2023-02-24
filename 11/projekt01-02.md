@@ -19,12 +19,18 @@
 
 | Alkatrész |Típus|db|
 |-----------|-----|--|
-|           |     |  |
-|           |     |  |
-|           |     |  |
-|           |     |  |
-|           |     |  |
-|           |     |  |
+|Ellenállás |     | 5|
+|Áram forrás|     | 1|
+|Volt mérő  |     | 1|
+
+### Értékeik:
+| Alkatrész |Típus|db|
+|-----------|-----|--|
+|Ellenállás |   R1|1k|
+|           |   R2|2k|
+|           |   R3|3k|
+|           |   R4|4k|
+|           |   R5|5k|
 
 ## Az áramkör összeállítása
 
