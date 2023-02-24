@@ -32,5 +32,6 @@
 
 ## Számítások
 
-## Önreflexió
+##                          Önreflexió
+
 |-----------|-----|--|
