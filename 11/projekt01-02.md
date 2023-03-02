@@ -41,4 +41,6 @@
 
 ## Számítások
 
+![kép](szamitas.PNG)
+
 # Önreflexió
