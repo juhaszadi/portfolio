@@ -5,7 +5,11 @@
 [Vissza](https://juhaszadi.github.io/portfolio/)
 
 ### Hídkapcsolás
+### Projekt ismertetése:
 #### Kiegyenlítettlen hídkapcsolás kimeneti feszültségének meghatározása
+#### a, Szimulációs méréssel (TINA)
+#### b, Valós méréssel (laborban)
+#### c, Számítással (delta/csillag átalakítással)
 
 ##### Kapcsolásirajz (TINA)
 
