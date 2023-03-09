@@ -15,32 +15,30 @@
 
 ![kép](./JuhaszAdam_PR_meresi%20eredmeny.PNG)
 
-#### Valós mérés (Laborban)
 
 ### Alkatrészjegyzék
 
-| Alkatrész |Típus|db|
-|-----------|-----|--|
-|Ellenállás |     | 5|
-|Áram forrás|     | 1|
-|Volt mérő  |     | 1|
+| Alkatrész       |Típus|db|
+|-----------------|-----|--|
+|Ellenállás       |     | 5|
+|Feszültség forrás|     | 1|
+|Volt mérő        |     | 1|
 
 ### Értékeik:
 
-| Alkatrész |Típus|Érték|
-|-----------|-----|-----|
-|Ellenállás |   R1|   1k|
-|           |   R2|   2k|
-|           |   R3|   3k|
-|           |   R4|   4k|
-|           |   R5|   5k|
-
-## Az áramkör összeállítása
-
-## A mérés előkészítése, mérés
+| Alkatrész |Típus|Érték |
+|-----------|-----|------|
+|Ellenállás |   R1|   1 k|
+|           |   R2|   2 k|
+|           |   R3|   3 k|
+|           |   R4|   4 k|
+|           |   R5|   5 k|
 
 ## Számítások
 
-![kép](szamitas.PNG)
+![kép](./Juh%C3%A1sz%20%C3%81d%C3%A1m_H%C3%ADd_sz%C3%A1m%C3%ADt%C3%A1s_javPNG.PNG)
 
 # Önreflexió
+
+### A projekt elkészítése közben nagyon jól éreztem magam. Nehézséget nem igazán tapasztaltam benne, egyedül a TINA alkalazás volt kicsit idegen számomra, de hamar elikazodtam rajta. A projekt sokat segített a képletek szakszerű alkalmazásának megértésében/használatában.
+### Izgatottan várom a következő projekteket. 
