@@ -40,5 +40,5 @@
 
 # Önreflexió
 
-### A projekt elkészítése közben nagyon jól éreztem magam. Nehézséget nem igazán tapasztaltam benne, egyedül a TINA alkalazás volt kicsit idegen számomra, de hamar elikazodtam rajta. A projekt sokat segített a képletek szakszerű alkalmazásának megértésében/használatában.
+### A projekt elkészítése közben nagyon jól éreztem magam. Nehézséget nem igazán tapasztaltam benne, egyedül a TINA alkalazás volt kicsit idegen számomra, de hamar eligazodtam rajta. A projekt sokat segített a képletek szakszerű alkalmazásának megértésében/használatában.
 ### Izgatottan várom a következő projekteket. 
