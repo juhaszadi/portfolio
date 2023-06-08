@@ -6,7 +6,7 @@
 ## Kombinációs logikaihálózat vizsgálata-1
 
 
-![kép](asd.jpg)
+![kép](/11/asd.PNG)
 
 # Önreflexió
 
